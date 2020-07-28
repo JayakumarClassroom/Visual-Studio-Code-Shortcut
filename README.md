@@ -291,4 +291,6 @@ Cmd+Shift+O
 Ctrl+Shift+O
 ```
 
+
+Thanks to Brad Traversy
 Reposted from https://gist.github.com/bradtraversy/b28a0a361880141af928ada800a671d9
